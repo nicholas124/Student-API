@@ -24,3 +24,6 @@ A form for entering a student's name and address, and creating a new student rec
 A list of all student records, with each record showing the student's name and address.
 The ability to edit or delete a student record by clicking on it in the list.
 To run this application, you will need to have Node.js and npm (the Node.js package manager) installed on your computer. Then, you can clone the repository, install the dependencies with npm install, and start the development server with npm start.
+
+<img src="image_url" alt="Alt text" width="500"/>
+
